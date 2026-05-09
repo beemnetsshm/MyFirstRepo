@@ -1,0 +1,1 @@
+I have learned how to use GitHub to create repositories, make branches, and submit pull requests. I also understand how collaboration works through forking and merging.
